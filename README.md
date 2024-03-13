@@ -4,7 +4,6 @@
         <meta charser="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>HTML5</title>
         <body>
             <h5 id="voltar">Início</h5>
             <h1>HTML - A linguagem de marcação que revolucionou a WEB</h1>
